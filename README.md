@@ -1,6 +1,6 @@
 # shop
 
-A new Flutter project.
+A new shop app where user can place order,add to cart,mark favourite and add their own products all done with a very good animation
 
 ## Getting Started
 
