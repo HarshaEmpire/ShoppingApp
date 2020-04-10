@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584748580319",
+    "firebase_url": "https://dev-truth-268220.firebaseio.com",
+    "project_id": "dev-truth-268220",
+    "storage_bucket": "dev-truth-268220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584748580319:android:1b7e63829603b0a163586a",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584748580319-mfbjt682m9ned25kuandgmu13h4b549f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVHo6vko3g01-8sBdT9iJ6yiQab5xfgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584748580319-mfbjt682m9ned25kuandgmu13h4b549f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
